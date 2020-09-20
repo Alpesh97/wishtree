@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 490 490" style="enable-background:new 0 0 490 490;" xml:space="preserve" width="100px" height="100px" class="">
+    <g>
+        <g>
+            <g>
+                <path style="fill:#01A8EF" d="M117,220H9.9c-5.5,0-9.9,4.4-9.9,9.9v248c0,5.5,4.4,9.9,9.9,9.9H117c5.5,0,9.9-4.4,9.9-9.9v-248    C126.9,224.4,122.5,220,117,220z M107.1,468H19.8V239.8h87.4V468H107.1z" data-original="#2C2F33" class="active-path" data-old_color="#2C2F33" />
+                <path style="fill:#01A8EF" d="M298.6,2.2H191.4c-5.5,0-9.9,4.4-9.9,9.9v465.7c0,5.5,4.4,9.9,9.9,9.9h107.2c5.5,0,9.9-4.4,9.9-9.9    V12.1C308.5,6.7,304.1,2.2,298.6,2.2z M288.7,468h-87.4V22h87.4V468z" data-original="#01A8EF" class="" data-old_color="#01A8EF" />
+                <path style="fill:#01A8EF" d="M480.1,487.8c5.5,0,9.9-4.4,9.9-9.9V162.6c0-5.5-4.4-9.9-9.9-9.9H373c-5.5,0-9.9,4.4-9.9,9.9v315.2    c0,5.5,4.4,9.9,9.9,9.9h107.1V487.8z M382.9,172.5h87.4V468h-87.4V172.5z" data-original="#2C2F33" class="active-path" data-old_color="#2C2F33" />
+            </g>
+        </g>
+    </g>
+</svg>
